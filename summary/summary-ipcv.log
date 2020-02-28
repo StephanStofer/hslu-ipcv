@@ -1,0 +1,432 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2020.1.12)  27 FEB 2020 13:23
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**summary-ipcv.tex
+(./summary-ipcv.tex
+LaTeX2e <2018-12-01>
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/booktabs/booktabs.sty
+Package: booktabs 2016/04/27 v1.618033 publication quality tables
+\heavyrulewidth=\dimen103
+\lightrulewidth=\dimen104
+\cmidrulewidth=\dimen105
+\belowrulesep=\dimen106
+\belowbottomsep=\dimen107
+\aboverulesep=\dimen108
+\abovetopsep=\dimen109
+\cmidrulesep=\dimen110
+\cmidrulekern=\dimen111
+\defaultaddspace=\dimen112
+\@cmidla=\count88
+\@cmidlb=\count89
+\@aboverulesep=\dimen113
+\@belowrulesep=\dimen114
+\@thisruleclass=\count90
+\@lastruleclass=\count91
+\@thisrulewidth=\dimen115
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/02/04 v3.8 Customized lists
+\enitkv@toks@=\toks14
+\labelindent=\skip43
+\enit@outerparindent=\dimen116
+\enit@toks=\toks15
+\enit@inbox=\box27
+\enit@count@id=\count92
+\enitdp@description=\count93
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/setspace/setspace.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2018/04/16 v5.8 Page Geometry
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+\Gm@cnth=\count94
+\Gm@cntv=\count95
+\c@Gm@tempcnt=\count96
+\Gm@bindingoffset=\dimen117
+\Gm@wd@mp=\dimen118
+\Gm@odd@mp=\dimen119
+\Gm@even@mp=\dimen120
+\Gm@layoutwidth=\dimen121
+\Gm@layoutheight=\dimen122
+\Gm@layouthoffset=\dimen123
+\Gm@layoutvoffset=\dimen124
+\Gm@dimlist=\toks17
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen125
+\Gin@req@width=\dimen126
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/cleveref/cleveref.sty
+Package: cleveref 2018/03/27 v0.21.4 Intelligent cross-referencing
+)
+(./summary-ipcv.aux)
+\openout1 = `summary-ipcv.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: twoside 
+* h-part:(L,W,R)=(56.9055pt, 483.69687pt, 56.9055pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=483.69687pt
+* \textheight=731.23584pt
+* \oddsidemargin=-15.36449pt
+* \evensidemargin=-15.36449pt
+* \topmargin=-52.36449pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=11.0pt
+* \footskip=30.0pt
+* \marginparwidth=113.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.0pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+(/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count97
+\scratchdimen=\dimen127
+\scratchbox=\box28
+\nofMPsegments=\count98
+\nofMParguments=\count99
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count100
+\MPscratchDim=\dimen128
+\MPnumerator=\count101
+\makeMPintoPDFobject=\count102
+\everyMPtoPDFconversion=\toks19
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 20.
+
+(./summary-ipcv.toc
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 2.
+)
+\tf@toc=\write3
+\openout3 = `summary-ipcv.toc'.
+
+ (./sw01.tex
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 8.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 8.
+<images/sw01/StufenBildverarbeitung.JPG, id=1, 182.55704pt x 204.3886pt>
+File: images/sw01/StufenBildverarbeitung.JPG Graphic file (type jpg)
+<use images/sw01/StufenBildverarbeitung.JPG>
+Package pdftex.def Info: images/sw01/StufenBildverarbeitung.JPG  used on input 
+line 14.
+(pdftex.def)             Requested size: 76.24165pt x 85.35826pt.
+
+Overfull \hbox (15.92793pt too wide) in paragraph at lines 20--21
+[]\OT1/cmr/m/n/10.95 Image Pro-cess-ing (Low Level Vi-sion): Bild-verbesserung 
+(Kon-trastko-r-rek-tur, Rauschun-terdr^^?uckung),
+ []
+
+[1
+
+{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map} <./image
+s/sw01/StufenBildverarbeitung.JPG>]
+Underfull \hbox (badness 10000) in paragraph at lines 25--30
+
+ []
+
+<images/sw01/rgb-farbmodell.png, id=15, 451.6875pt x 301.125pt>
+File: images/sw01/rgb-farbmodell.png Graphic file (type png)
+<use images/sw01/rgb-farbmodell.png>
+Package pdftex.def Info: images/sw01/rgb-farbmodell.png  used on input line 41.
+
+(pdftex.def)             Requested size: 192.06458pt x 128.0374pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 48--48
+[]\OT1/cmr/bx/n/10.95 OpenCV \OT1/cmr/m/n/10.95 li-est Bilder in BGR-Format. Mi
+t im-age[]rgb = cv2.cvtColor(image,
+ []
+
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 44--49
+[] 
+ []
+
+
+Overfull \hbox (0.25305pt too wide) in paragraph at lines 54--55
+\OT1/cmr/m/n/10.95 Ver^^?anderung der In-ten-sit^^?atswerte durch eine Funk-tio
+n. Beispiele: Schwell-w-ert, Hel-ligkeitsver^^?anderung,
+ []
+
+<images/sw01/Helligkeitsveraenderung.JPG, id=16, 413.29407pt x 224.33812pt>
+File: images/sw01/Helligkeitsveraenderung.JPG Graphic file (type jpg)
+<use images/sw01/Helligkeitsveraenderung.JPG>
+Package pdftex.def Info: images/sw01/Helligkeitsveraenderung.JPG  used on input
+ line 59.
+(pdftex.def)             Requested size: 314.51666pt x 170.71652pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 69--69
+
+ []
+
+<images/sw01/OpenCVHelligkeit.JPG, id=17, 379.4175pt x 93.34875pt>
+File: images/sw01/OpenCVHelligkeit.JPG Graphic file (type jpg)
+<use images/sw01/OpenCVHelligkeit.JPG>
+Package pdftex.def Info: images/sw01/OpenCVHelligkeit.JPG  used on input line 6
+9.
+(pdftex.def)             Requested size: 346.95518pt x 85.35826pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 62--70
+[] 
+ []
+
+[2 <./images/sw01/rgb-farbmodell.png> <./images/sw01/Helligkeitsveraenderung.JP
+G>]
+<images/sw01/Kontrastveraenderung.JPG, id=22, 405.76593pt x 223.58531pt>
+File: images/sw01/Kontrastveraenderung.JPG Graphic file (type jpg)
+<use images/sw01/Kontrastveraenderung.JPG>
+Package pdftex.def Info: images/sw01/Kontrastveraenderung.JPG  used on input li
+ne 75.
+(pdftex.def)             Requested size: 309.82793pt x 170.71652pt.
+<images/sw01/Gammakorrektur.JPG, id=23, 399.74344pt x 240.14719pt>
+File: images/sw01/Gammakorrektur.JPG Graphic file (type jpg)
+<use images/sw01/Gammakorrektur.JPG>
+Package pdftex.def Info: images/sw01/Gammakorrektur.JPG  used on input line 82.
+
+(pdftex.def)             Requested size: 284.17358pt x 170.71652pt.
+ [3 <./images/sw01/OpenCVHelligkeit.JPG> <./images/sw01/Kontrastveraenderung.JP
+G> <./images/sw01/Gammakorrektur.JPG>]
+<images/sw01/BspHistogramm.JPG, id=28, 121.20282pt x 121.95563pt>
+File: images/sw01/BspHistogramm.JPG Graphic file (type jpg)
+<use images/sw01/BspHistogramm.JPG>
+Package pdftex.def Info: images/sw01/BspHistogramm.JPG  used on input line 99.
+(pdftex.def)             Requested size: 197.94167pt x 199.16928pt.
+<images/sw01/BspHistogramm2.JPG, id=29, 389.20406pt x 228.10219pt>
+File: images/sw01/BspHistogramm2.JPG Graphic file (type jpg)
+<use images/sw01/BspHistogramm2.JPG>
+Package pdftex.def Info: images/sw01/BspHistogramm2.JPG  used on input line 102
+.
+(pdftex.def)             Requested size: 291.29657pt x 170.71652pt.
+
+Overfull \hbox (6.79999pt too wide) in paragraph at lines 105--119
+[] 
+ []
+
+[4 <./images/sw01/BspHistogramm.JPG> <./images/sw01/BspHistogramm2.JPG>]
+<images/sw01/BspHistogrammausgleich.JPG, id=33, 372.64218pt x 194.97844pt>
+File: images/sw01/BspHistogrammausgleich.JPG Graphic file (type jpg)
+<use images/sw01/BspHistogrammausgleich.JPG>
+Package pdftex.def Info: images/sw01/BspHistogrammausgleich.JPG  used on input 
+line 123.
+(pdftex.def)             Requested size: 271.90143pt x 142.26378pt.
+<images/sw01/HistogrammAusgleichBerechnung.JPG, id=34, 2965.0775pt x 3463.94125
+pt>
+File: images/sw01/HistogrammAusgleichBerechnung.JPG Graphic file (type jpg)
+<use images/sw01/HistogrammAusgleichBerechnung.JPG>
+Package pdftex.def Info: images/sw01/HistogrammAusgleichBerechnung.JPG  used on
+ input line 127.
+(pdftex.def)             Requested size: 365.29506pt x 426.79134pt.
+
+[5 <./images/sw01/BspHistogrammausgleich.JPG> <./images/sw01/HistogrammAusgleic
+hBerechnung.JPG>]
+<images/sw01/Dilate.JPG, id=38, 312.41719pt x 212.66953pt>
+File: images/sw01/Dilate.JPG Graphic file (type jpg)
+<use images/sw01/Dilate.JPG>
+Package pdftex.def Info: images/sw01/Dilate.JPG  used on input line 143.
+(pdftex.def)             Requested size: 208.99902pt x 142.26378pt.
+<images/sw01/Erode.JPG, id=39, 310.53516pt x 222.8325pt>
+File: images/sw01/Erode.JPG Graphic file (type jpg)
+<use images/sw01/Erode.JPG>
+Package pdftex.def Info: images/sw01/Erode.JPG  used on input line 150.
+(pdftex.def)             Requested size: 198.25848pt x 142.26378pt.
+<images/sw01/BspOpenClosing.JPG, id=40, 403.5075pt x 228.855pt>
+File: images/sw01/BspOpenClosing.JPG Graphic file (type jpg)
+<use images/sw01/BspOpenClosing.JPG>
+Package pdftex.def Info: images/sw01/BspOpenClosing.JPG  used on input line 161
+.
+(pdftex.def)             Requested size: 401.35155pt x 227.62204pt.
+
+Underfull \vbox (badness 2932) has occurred while \output is active []
+
+ [6 <./images/sw01/Dilate.JPG> <./images/sw01/Erode.JPG>]
+<images/sw01/BspCCL.JPG, id=44, 353.82187pt x 219.44484pt>
+File: images/sw01/BspCCL.JPG Graphic file (type jpg)
+<use images/sw01/BspCCL.JPG>
+Package pdftex.def Info: images/sw01/BspCCL.JPG  used on input line 177.
+(pdftex.def)             Requested size: 275.26189pt x 170.71652pt.
+<images/sw01/Nachbarschaften.JPG, id=45, 297.73735pt x 137.38828pt>
+File: images/sw01/Nachbarschaften.JPG Graphic file (type jpg)
+<use images/sw01/Nachbarschaften.JPG>
+Package pdftex.def Info: images/sw01/Nachbarschaften.JPG  used on input line 18
+3.
+(pdftex.def)             Requested size: 246.64944pt x 113.81102pt.
+<images/sw01/SpiegelungMitOpenCV.JPG, id=46, 684.30656pt x 516.05296pt>
+File: images/sw01/SpiegelungMitOpenCV.JPG Graphic file (type jpg)
+<use images/sw01/SpiegelungMitOpenCV.JPG>
+Package pdftex.def Info: images/sw01/SpiegelungMitOpenCV.JPG  used on input lin
+e 190.
+(pdftex.def)             Requested size: 377.30952pt x 284.52756pt.
+ [7 <./images/sw01/BspOpenClosing.JPG> <./images/sw01/BspCCL.JPG> <./images/sw0
+1/Nachbarschaften.JPG>]
+<images/sw01/KugelnZaehlen.JPG, id=51, 465.23813pt x 409.53pt>
+File: images/sw01/KugelnZaehlen.JPG Graphic file (type jpg)
+<use images/sw01/KugelnZaehlen.JPG>
+Package pdftex.def Info: images/sw01/KugelnZaehlen.JPG  used on input line 202.
+
+(pdftex.def)             Requested size: 420.22961pt x 369.88582pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [8 <./images/sw01/SpiegelungMitOpenCV.JPG>]) [9 <./images/sw01/KugelnZaehlen.J
+PG>]
+(./summary-ipcv.aux) ) 
+Here is how much of TeX's memory you used:
+ 4188 strings out of 492616
+ 76514 string characters out of 6129481
+ 155991 words of memory out of 5000000
+ 8060 multiletter control sequences out of 15000+600000
+ 9327 words of font info for 33 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,7n,25p,619b,239s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/am
+sfonts/cm/cmbx10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsf
+onts/cm/cmmi10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmr10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfont
+s/cm/cmr12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr17.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy10.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmti12.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/c
+mtt12.pfb>
+Output written on summary-ipcv.pdf (9 pages, 3921327 bytes).
+PDF statistics:
+ 88 PDF objects out of 1000 (max. 8388607)
+ 49 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 86 words of extra memory for PDF output out of 10000 (max. 10000000)
+
